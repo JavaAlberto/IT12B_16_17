@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "24.0.2"
     defaultConfig {
         applicationId "com.meine_it12b_app.bsfs.meine_it12b_app"
         minSdkVersion 23

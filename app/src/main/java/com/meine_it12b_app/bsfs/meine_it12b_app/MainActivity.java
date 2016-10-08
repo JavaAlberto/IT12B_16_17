@@ -2,6 +2,8 @@ package com.meine_it12b_app.bsfs.meine_it12b_app;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
@@ -9,5 +11,9 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Button rot;
+        Button gelb;
+        Button ende;
+        TextView titel;
     }
 }
