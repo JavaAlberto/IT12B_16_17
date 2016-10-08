@@ -14,6 +14,6 @@ public class MainActivity extends Activity {
         Button rot;
         Button gelb;
         Button ende;
-        TextView titel;
+    //    TextView titel;
     }
 }
