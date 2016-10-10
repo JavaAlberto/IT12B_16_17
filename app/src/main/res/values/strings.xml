@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Meine_IT12B_App</string>
     <string name="gruss">Hallo Freising</string>
+    <string name="titel">Farbwechsel</string>
+    <string name="button_rot">ROT</string>
+    <string name="botton_ende">ENDE</string>
+    <string name="button_gelb">GELB</string>
 </resources>
